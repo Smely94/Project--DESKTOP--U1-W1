@@ -1,0 +1,176 @@
+/* Your styles here */
+ body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    margin: 0;
+ }
+
+
+
+
+
+ header {
+    text-align: center;
+ }
+
+ header img {
+    width: 200px;
+    margin-left: 40px;
+    
+ }
+
+ header div.top-header {
+    background-color: black;
+    padding-block: 50px;
+    text-align: left;
+ }
+
+ header div.foot-header {
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    padding-top: 55px;
+    padding-bottom: 260px;
+    height: 80px;
+ }
+
+ header div.foot-header button {
+    border-radius: 5px 5px 5px 5px;
+    font-weight: 900;
+ }
+
+ .foot-header h1 {
+    font-size: xx-large;
+    font-weight: bold;
+    color: #25a2c3;
+ }
+
+ .foot-header p {
+    padding-top: 50px;
+ }
+
+ .foot-header button {
+    margin-top: 40px;
+    padding: 10px;
+    padding-inline: 40px;
+    background-color: #f04c2f;
+    border-style: hidden;
+    color: white;
+ }
+
+
+
+
+
+
+
+ main {
+    text-align: center;
+ }
+
+
+
+ main div.top-main h2{
+    font-size: larger;
+    font-weight: bold;
+    color: #25a2c3;
+    margin-top: 40px;
+ }
+
+ #image {
+   float: left;
+   margin-left: 400px;
+ }
+
+ main div.top-main p {
+    margin-top: 20px;
+ }
+
+ main div.top-main img {
+    margin-top: 40px;
+    border-radius: 200px 200px 200px 200px;
+ }
+
+
+
+ main div.middle-main {
+    margin-top: 150px;
+    background-color: #e22d0e;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+ }
+
+ main div.middle-main h2 {
+    font-size:3rem;
+    font-weight: bold;
+    margin-bottom: 30px;
+ }
+
+ main div.middle-main h3 {
+    font-size: larger;
+    font-weight: bold;
+    margin-top: 30px;
+ }
+
+ main div.middle-main p {
+    font-style: oblique;
+ }
+
+
+ main div.bottom-main div {
+   width: 500px;
+   height: 430px;
+    margin: 20px;
+    margin-top: 60px;
+    border: 1px solid #e3dcdc;
+    border-radius: 20px 20px 20px 20px;
+    padding-bottom: 35px;
+    display: inline-block;
+ }
+
+ main div.bottom-main img {
+    width: 100%;
+ }
+
+ main div.bottom-main h2 {
+    font-size: larger;
+    font-weight: bold;
+    color: #25a2c3;
+    margin-top: 10px;
+ }
+
+
+
+ footer {
+    text-align: center;
+    background-color: #25a2c3;
+    margin-top: 45px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+ }
+
+ footer h2 {
+    font-size: xx-large;
+    font-weight: bold;
+    color: white;
+ }
+
+ footer p,a  {
+    color: white;    
+ }
+
+ footer div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+ }
+
+ footer hr {
+    width: 300px;
+ }
+
+
+
+
+
+
+
